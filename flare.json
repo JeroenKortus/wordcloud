@@ -4,8 +4,8 @@
   {
    "name": "Data Engineering",
    "children": [
-    {"name": "Big Data", "value": 50},
-    {"name": "Data Transformation", "value": 50}
+    {"name": "Big Data", "size": 50},
+    {"name": "Data Transformation", "size": 50}
    ]
   }
  ]
