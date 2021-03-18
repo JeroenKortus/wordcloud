@@ -1,12 +1,1 @@
-{
- "name": "Insights & Data",
- "children": [
-  {
-   "name": "Data Engineering",
-   "children": [
-    {"name": "Big Data", "size": 50},
-    {"name": "Data Transformation", "size": 50}
-   ]
-  }
- ]
-}
+{"name":"Base","children":[{"name":"Data Engineering","size":50},{"name":"Content & Data Management","size":30}]}
