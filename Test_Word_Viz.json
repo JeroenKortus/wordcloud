@@ -1,12 +1,1 @@
-{
- "name": "Insights & Data",
- "children": [
-  {
-   "name": "Data Engineering",
-   "children": [
-    {"name": "Big Data", "value": 50},
-    {"name": "Data Transformation", "value": 50}
-   ]
-  }
- ]
-}
+{"name": "Insights & Data","children": [{"name": "Data Engineering","children": [{"name": "Big Data", "value": 50},{"name": "Data Transformation", "value": 50}]}]}
