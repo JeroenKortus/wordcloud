@@ -7,23 +7,6 @@
     {"name": "Big Data", "value": 50},
     {"name": "Data Transformation", "value": 50}
    ]
-  },
-  {
-   "name": "Content & Data Management",
-   "children": [
-    {"name": "Master Data Management", "value": 50},
-    {"name": "Business Analyse", "value": 50},
-    {"name": "Enterprise Content Management", "value": 50},
-   ]
-  },
-  {
-   "name": "Data Science",
-   "children": [
-    {"name": "Data Science & Analytics", "value": 50},
-    {"name": "Advanced Planning & Scheduling", "value": 50},
-    {"name": "SAP", "value": 50},
-    {"name": "Engagement Management", "value": 50},
-   ]
   }
  ]
 }
