@@ -1,7 +1,12 @@
 {
- "name":"Base",
- "children":[
-  {"name":"Child1","size":50},
-  {"name":"Child2","size":30}
+ "name": "Insights & Data",
+ "children": [
+  {
+   "name": "Data Engineering",
+   "children": [
+    {"name": "Big Data", "value": 50},
+    {"name": "Data Transformation", "value": 50}
+   ]
+  }
  ]
 }
